@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "4536008749",
+    "firebase_url": "https://nards-78608.firebaseio.com",
+    "project_id": "nards-78608",
+    "storage_bucket": "nards-78608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4536008749:android:db873ada95f76dd6",
+        "android_client_info": {
+          "package_name": "games2d.com.nards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4536008749-q2etpdl0p76gus1p32rp20ani79329gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "games2d.com.nards",
+            "certificate_hash": "824b74a6a819f6f78039525ff3c85700bb3a7b60"
+          }
+        },
+        {
+          "client_id": "4536008749-nsarvib6rkgcoameqf2snfhgq2on0ais.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcv6e9V7_bJuw9gqm2S0y64hKW6KIKrg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4536008749-nsarvib6rkgcoameqf2snfhgq2on0ais.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

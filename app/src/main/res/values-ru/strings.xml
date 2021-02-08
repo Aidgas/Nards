@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Нарды</string>
+
+    <string name="txt1">Длинные нарды</string>
+    <string name="txt2">ДВА ИГРОКА</string>
+    <string name="txt3">ПРАВИЛА ИГРЫ</string>
+    <string name="txt4">ИГРА ПО BLUETOOTH</string>
+    <string name="txt5">Настройки игры</string>
+    <string name="txt6">Играть белыми</string>
+    <string name="txt7">Играть черными</string>
+    <string name="txt8">Создать игру</string>
+    <string name="txt9">Найти игру</string>
+    <string name="txt10">Да</string>
+    <string name="txt11">Нет</string>
+    <string name="txt12">Bluetooth не доступен</string>
+    <string name="txt13">OK</string>
+    <string name="txt14">Bluetooth не включен</string>
+    <string name="txt15">Ожидание игрока ...</string>
+    <string name="txt16">Поиск ...</string>
+    <string name="txt17">Устройства Bluetooth</string>
+    <string name="txt18">Подключение к устройству...</string>
+    <string name="txt19">Не удалось подключится к устройству</string>
+    <string name="txt20">Попытка подключения...</string>
+    <string name="txt21">Подключено. Проверка...</string>
+    <string name="txt22">Устройство не отвечает</string>
+    <string name="txt23">Запрос на подключение</string>
+    <string name="txt24">Отправлен запрос на подключение</string>
+    <string name="txt25">В игре отказано</string>
+    <string name="txt26">Получение данных...</string>
+    <string name="txt27">Ошибка соединения</string>
+    <string name="txt28">ИГРА С КОМПЬЮТЕРОМ</string>
+    <string name="txt29">Начать игру</string>
+    <string name="txt30">Ничья</string>
+    <string name="txt31">Победа белых</string>
+    <string name="txt32">Победа черных</string>
+    <string name="txt33">Марс</string>
+    <string name="txt34">ИГРА В ИНТЕРНЕТЕ</string>
+    <string name="txt35">Соединение с сервером...</string>
+    <string name="txt36">ПОИСК ИГР</string>
+    <string name="txt37">РЕЙТИНГ</string>
+    <string name="txt38">СОЗДАТЬ ИГРУ</string>
+
+    <string name="txt_49">Рейтинг</string>
+    <string name="txt_50">Поиск игры</string>
+    <string name="txt_51">Всего игр</string>
+    <string name="txt_52">Побед</string>
+    <string name="txt_53">Рейтинг</string>
+    <string name="txt_54">Поражений</string>
+    <string name="txt_55">Ничих</string>
+    <string name="txt_56">Марс</string>
+
+    <string name="txt_57">Выйти из сетевой игры</string>
+    <string name="txt_58">Да</string>
+    <string name="txt_59">Нет</string>
+
+    <string name="txt_60">Другой игрок, прекратил игру</string>
+    <string name="txt_61">ПОДЕЛИТЬСЯ</string>
+
+    <string name="txt_40">Войти через Google</string>
+    <string name="txt_80">Нажимая кнопку \"Войти через Google\", Вы принимаете наше <u>пользовательское соглашение</u> и <u>политику конфиденциальности</u></string>
+
+    <string name="none_paired">Не найдены устройства bluetooth</string>
+
+    <string name="txt_91">Установи Нарды на свой смартфон. Скачайте приложение сегодня с</string>
+    <string name="txt_8">ПОДЕЛИТЬСЯ</string>
+
+</resources>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Nards</string>
+
+    <string name="txt1">Long backgammon</string>
+    <string name="txt2">TWO PLAYERS</string>
+    <string name="txt3">RULES GAME</string>
+    <string name="txt4">GAME VIA BLUETOOTH</string>
+    <string name="txt5">Game settings</string>
+    <string name="txt6">Play white</string>
+    <string name="txt7">Play black</string>
+    <string name="txt8">Create game</string>
+    <string name="txt9">Search game</string>
+    <string name="txt10">Yes</string>
+    <string name="txt11">No</string>
+    <string name="txt12">Bluetooth is not available</string>
+    <string name="txt13">OK</string>
+    <string name="txt14">Bluetooth not enabled</string>
+    <string name="txt15">Waiting for players ...</string>
+    <string name="txt16">Search ...</string>
+    <string name="txt17">Bluetooth Devices</string>
+    <string name="txt18">Connection to the device...</string>
+    <string name="txt19">Failed to connect to the device</string>
+    <string name="txt20">The connection attempt...</string>
+    <string name="txt21">Connected. Check...</string>
+    <string name="txt22">The device does not respond</string>
+    <string name="txt23">The connection request</string>
+    <string name="txt24">Sent the connection request</string>
+    <string name="txt25">In the game denied</string>
+    <string name="txt26">Retrieving data...</string>
+    <string name="txt27">Connection error</string>
+    <string name="txt28">PLAY WITH THE COMPUTER</string>
+    <string name="txt29">Start game</string>
+    <string name="txt30">Draw</string>
+    <string name="txt31">Victory white</string>
+    <string name="txt32">Victory black</string>
+    <string name="txt33">Mars</string>
+    <string name="txt34">GAME ON THE INTERNET</string>
+    <string name="txt35">Server connection...</string>
+    <string name="txt36">SEARCH GAME</string>
+    <string name="txt37">RATING</string>
+    <string name="txt38">CREATE A GAME</string>
+
+    <string name="txt_49">Rating</string>
+    <string name="txt_50">Search game</string>
+    <string name="txt_51">Total games</string>
+    <string name="txt_52">Victories</string>
+    <string name="txt_53">Rating</string>
+    <string name="txt_54">Поражений</string>
+    <string name="txt_55">Defeats</string>
+    <string name="txt_56">Mars</string>
+
+    <string name="txt_57">Quit network game</string>
+    <string name="txt_58">Yes</string>
+    <string name="txt_59">No</string>
+
+    <string name="txt_60">Another player stopped playing</string>
+    <string name="txt_61">SHARE APP</string>
+
+    <string name="txt_40">Sign in with Google</string>
+    <string name="txt_80">By clicking the \"Sign in with Google\" button, you accept our &lt;u>User Agreement&lt;/u> and &lt;u> Privacy Policy &lt;/u></string>
+
+    <string name="none_paired">No devices have been paired</string>
+
+    <string name="txt_91">Install Backgammon on your smartphone. Download the app today from</string>
+    <string name="txt_8">SHARE</string>
+
+</resources>
